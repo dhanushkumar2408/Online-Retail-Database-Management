@@ -155,5 +155,3 @@ CREATE TABLE Orders (
 - **Performance**: Indexes on primary and foreign keys improve query performance.
 
 ---
-
-Feel free to customize this schema to better fit the specific needs of your project.
